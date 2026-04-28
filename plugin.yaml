@@ -1,0 +1,15 @@
+schema_version: "1.0"
+name: "hl-grid-strategy"
+skill_id: "hl-grid-strategy"
+version: "1.0.0"
+description: "Hyperliquid BTC grid trading strategy — automatically places buy/sell limit orders in a price range to accumulate trading volume and fees via the OKX hyperliquid-plugin."
+author: "kin684660-commits"
+repository: "https://github.com/kin684660-commits/hl-grid-strategy"
+basic_skills:
+  - hyperliquid-plugin
+risk_level: "high"
+tags:
+  - hyperliquid
+  - grid-trading
+  - perpetual
+  - automated
